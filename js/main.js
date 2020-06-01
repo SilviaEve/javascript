@@ -36,4 +36,33 @@
 //console.log(fruta);
 //alert(fruta[1].nome);
 	
+//Aula 03
+/*
+var idade = 18;
+var idade = prompt("Qual sua idade?");
+if (idade >= 18){
+	alert("maior de idade");
+}else{
+	alert("menor de idade");
+};
+
+*//*
+var count = 0;
+while(count<=5){
+console.log(count);
+alert(count);
+count++;
+};
+*//*
+var count = 0;
+for(count=0; count <=5; count++){
+	alert(count);
+};
+*/
+/*
+//data
+var d = new Date();
+//alert(d);
+alert(d.getMonth()+1);
+*/
 
